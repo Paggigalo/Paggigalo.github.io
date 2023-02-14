@@ -4,4 +4,3 @@ layout: default
 ---
 
 # {{ page.title }}
-# {{ site.title }}
