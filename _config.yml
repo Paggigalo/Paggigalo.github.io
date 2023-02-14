@@ -72,3 +72,7 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+  
+  
+  title: Site for Paggigalo
+description: Testing for now
