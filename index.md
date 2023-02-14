@@ -1,3 +1,10 @@
+---
+title: Page title
+layout: default
+---
+
+# {{ page.title }}
+
 <!DOCTYPE html>
 <html>
 <body>
